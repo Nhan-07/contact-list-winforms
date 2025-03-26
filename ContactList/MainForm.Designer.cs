@@ -50,7 +50,7 @@
             this.btnAddContact.TabIndex = 1;
             this.btnAddContact.Text = "Themlienhe";
             this.btnAddContact.UseVisualStyleBackColor = true;
-            this.btnAddContact.Click += new System.EventHandler(this.btnAddContact_Click);
+            this.btnAddContact.Click += new System.EventHandler(this.button1_Click);
             // 
             // MainForm
             // 
