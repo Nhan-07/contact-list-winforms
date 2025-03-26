@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\contact-list-winforms\\",
+  "WorkspaceRootPath": "C:\\git\\ContactList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|C:\\Users\\ADMIN\\contact-list-winforms\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|C:\\git\\ContactList\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|c:\\users\\admin\\contact-list-winforms\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|C:\\git\\ContactList\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|c:\\users\\admin\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|c:\\git\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|c:\\users\\admin\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|C:\\git\\ContactList\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D8A291-699F-4B2C-B073-14EEC626828D}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,23 +39,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\git\\ContactList\\ContactList\\MainForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
+              "ToolTip": "C:\\git\\ContactList\\ContactList\\MainForm.cs [Design]",
+              "RelativeToolTip": "ContactList\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:58:46.802Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AddContactForm.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\contact-list-winforms\\ContactList\\AddContactForm.cs",
+              "DocumentMoniker": "C:\\git\\ContactList\\ContactList\\AddContactForm.cs",
               "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\contact-list-winforms\\ContactList\\AddContactForm.cs",
+              "ToolTip": "C:\\git\\ContactList\\ContactList\\AddContactForm.cs",
               "RelativeToolTip": "ContactList\\AddContactForm.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAEwBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T13:46:38.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AddContactForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\contact-list-winforms\\ContactList\\AddContactForm.cs",
+              "DocumentMoniker": "C:\\git\\ContactList\\ContactList\\AddContactForm.cs",
               "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\contact-list-winforms\\ContactList\\AddContactForm.cs [Design]",
+              "ToolTip": "C:\\git\\ContactList\\ContactList\\AddContactForm.cs [Design]",
               "RelativeToolTip": "ContactList\\AddContactForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T13:45:27.803Z",
@@ -65,26 +81,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\contact-list-winforms\\ContactList\\MainForm.cs",
+              "DocumentMoniker": "C:\\git\\ContactList\\ContactList\\MainForm.cs",
               "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\contact-list-winforms\\ContactList\\MainForm.cs",
+              "ToolTip": "C:\\git\\ContactList\\ContactList\\MainForm.cs",
               "RelativeToolTip": "ContactList\\MainForm.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAADgvyMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAawCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T12:56:25.192Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\contact-list-winforms\\ContactList\\MainForm.cs",
-              "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\contact-list-winforms\\ContactList\\MainForm.cs [Design]",
-              "RelativeToolTip": "ContactList\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T11:58:46.802Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
