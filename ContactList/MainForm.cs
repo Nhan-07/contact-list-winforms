@@ -7,6 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ContactList;
+
+
+
 
 namespace ContactList
 {
@@ -15,6 +19,22 @@ namespace ContactList
         public MainForm()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAddContact_Click(object sender, EventArgs e)
+        {
+            AddContactForm addContactForm = new AddContactForm();
+            addContactForm.ShowDialog();
         }
     }
 }
